@@ -1,5 +1,5 @@
 # RESTful-API-Absensi
- RESTful API - Absensi
+ RESTful API untuk aplikasi Absensi
 
 # End Point
 
